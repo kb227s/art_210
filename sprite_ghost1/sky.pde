@@ -1,0 +1,4 @@
+class Sky extends Sprite
+{
+  
+}
